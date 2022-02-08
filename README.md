@@ -1,0 +1,1 @@
+# 2_5_2_Given-a-matrix-consisting-of-n-rows-and-n-columns
